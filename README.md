@@ -7,7 +7,6 @@
 Now includes a simple plugin system, allowing the creation of any kind of desktop widget.
 
 ## Download
-https://github.com/codepage/webkit_app_bar/raw/master/dist/webkit_app_bar4.zip
 Webkit App Bar [Qt4 vesion](https://github.com/codepage/webkit_app_bar/raw/master/dist/webkit_app_bar4.zip)
 
 for a little bit older distros like Debian 8, \*buntu 16.04 LTS, Mint 18.\*
